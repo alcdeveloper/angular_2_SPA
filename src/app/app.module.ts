@@ -7,8 +7,8 @@ import {HttpModule} from '@angular/http';
 
 // rutas
 import  { APP_ROUTING } from './app.routes';
-// servivion 
 
+// servicios 
 import { HeroesService } from './servicios/heroes.service';
 
 // Componentes
